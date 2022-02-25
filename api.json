@@ -1,0 +1,20 @@
+    [
+        {
+        "precio": 1200,
+        "id": 1,
+        "title": "Cuaderno",
+        "thumbnailUrl": "https://thumbs.dreamstime.com/b/cuaderno-para-la-nota-pluma-y-los-corazones-rojos-en-un-fondo-rosado-el-lugar-del-texto-ponen-completamente-las-metas-de-visi%C3%B3n-138889064.jpg"
+        },
+        {
+        "precio": 1800,
+        "id": 2,
+        "title": "Cuaderno + guia de dibujo",
+        "thumbnailUrl": "https://thumbs.dreamstime.com/b/fije-de-los-cuadernos-para-las-notas-sobre-el-lugar-rosado-del-fondo-texto-cuaderno-expedientes-la-pluma-y-puntilla-algod%C3%B3n-en-un-138889056.jpg"
+        },
+        {
+        "precio": 700,
+        "id": 3,
+        "title": "Libreta pequeña",
+        "thumbnailUrl": "https://thumbs.dreamstime.com/b/fije-de-los-cuadernos-para-las-notas-y-plumas-en-fondo-rosado-fijado-suculentos-cactus-el-lugar-del-texto-ponga-completamente-138889164.jpg"
+        }
+    ]
