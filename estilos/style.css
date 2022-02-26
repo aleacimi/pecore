@@ -57,6 +57,21 @@ nav{
 }
 
 
+/***********GALERIA*********/
+
+.galeria__caja{
+    margin: 0px;
+    padding: 10px;
+}
+.galeria__foto{
+    width:100%;
+
+}
+.galeria__foto:hover{
+    transform:scale(1.10,1.10);
+    border-style: outset;
+}
+
 
 
 
