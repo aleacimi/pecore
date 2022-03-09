@@ -19,7 +19,7 @@ $.get(catalogo, function (respuesta, estado) {
             </div>
         </div>`
         }
-    /*Agregar productos al carrito y que se registren en el storage*/
+    /*Agrego los productos*/
     for (let elemento of data) {
         let boton = $("#agregar" + (elemento.id));
 
