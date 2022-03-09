@@ -15,7 +15,7 @@
 }
 
 body {
-  background-image: url(/img/fondo.jpg);
+  background-image: url(img/fondo.jpg);
   background-size: auto;
   background-color: #b6caff;
   background-blend-mode: hard-light;
