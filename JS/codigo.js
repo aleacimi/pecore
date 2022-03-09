@@ -1,7 +1,7 @@
 //                                     ****************COMPRAR*****************
 const productosVenta = document.getElementById("cards");
 let carrito = [];
-const catalogo = "/../api.json";
+const catalogo = "api.json";
 
 $.get(catalogo, function (respuesta, estado) {
     if (estado === 'success') {
